@@ -7,7 +7,7 @@ Kubernetes Terraform installer for Scaleway bare-metal ARM and AMD64
 Clone the repository and install the dependencies:
 
 ```bash
-$ git clone https://github.com/stefanprodan/k8s-scw-baremetal.git
+$ git clone https://github.com/ckoehler99/k8s-scw-baremetal.git
 $ cd k8s-scw-baremetal
 $ terraform init
 ```
